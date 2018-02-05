@@ -1,0 +1,3 @@
+snmpTrapdAddr udp:50162
+disableAuthorization yes
+perl do "./traphandler";
